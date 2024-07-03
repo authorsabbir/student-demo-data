@@ -1,0 +1,29 @@
+{
+  "name": "student-demo-data",
+  "version": "1.0.0",
+  "description": "A package providing demo data for students in a Node.js project setup.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://programmersabbir.com",
+  "keywords": [
+    "students",
+    "Node.js",
+    "project",
+    "demo",
+    "student-data",
+    "student-result",
+    "dummy-students-data"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wpdevelopersabbir/student-demo-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wpdevelopersabbir/student-demo-data/issues"
+  },
+  "author": "Sabbir Hussain",
+  "license": "ISC"
+}
